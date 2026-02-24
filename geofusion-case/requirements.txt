@@ -1,4 +1,6 @@
-pandas >= 1.5
-numpy >= 1.23
-pyarrow >= 12
-duckdb >= 0.10
+pandas>=1.5.0 #manipulação de dados
+numpy>=1.23.0 #operações numéricas
+duckdb>=0.9.0 #execução SQL sobre parquet
+matplotlib>=3.7.0 #gráficos
+seaborn>=0.12.0 #visualização avançada
+pyarrow>=12.0.0 #suporte a parquet
